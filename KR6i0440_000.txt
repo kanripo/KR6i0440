@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 餓鬼報應經
+#+DATE: 2015-08-30 20:19:41.201558
+#+PROPERTY: JUAN 0
